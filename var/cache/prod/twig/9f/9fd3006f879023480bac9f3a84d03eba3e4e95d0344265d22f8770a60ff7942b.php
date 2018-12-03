@@ -54,6 +54,6 @@ class __TwigTemplate_2a5022e792b8efb067b308f0d8689480e9360915323281826072c86753f
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "PrestaShopBundle:Admin:Category/categories.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle/Resources/views/Admin/Category/categories.html.twig");
+        return new Twig_Source("", "PrestaShopBundle:Admin:Category/categories.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle/Resources/views/Admin/Category/categories.html.twig");
     }
 }

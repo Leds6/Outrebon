@@ -155,7 +155,7 @@ class __TwigTemplate_432e654aad6e57ad4be80b61a07068723af7ee355590d69a830f1f6b3f1
 
   ";
         // line 266
-        $this->loadTemplate("@PrestaShop/Admin/Product/ProductPage/product.html.twig", "@PrestaShop/Admin/Product/ProductPage/product.html.twig", 266, "52335803")->display(array_merge($context, array("id" => "confirmation_modal", "title" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("Warning", array(), "Admin.Notifications.Warning"), "closable" => false, "actions" => array(0 => array("type" => "button", "label" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("No", array(), "Admin.Global"), "class" => "btn btn-outline-secondary btn-lg cancel"), 1 => array("type" => "button", "label" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("Yes", array(), "Admin.Global"), "class" => "btn btn-primary btn-lg continue")))));
+        $this->loadTemplate("@PrestaShop/Admin/Product/ProductPage/product.html.twig", "@PrestaShop/Admin/Product/ProductPage/product.html.twig", 266, "281803362")->display(array_merge($context, array("id" => "confirmation_modal", "title" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("Warning", array(), "Admin.Notifications.Warning"), "closable" => false, "actions" => array(0 => array("type" => "button", "label" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("No", array(), "Admin.Global"), "class" => "btn btn-outline-secondary btn-lg cancel"), 1 => array("type" => "button", "label" => $this->env->getExtension('Symfony\Bridge\Twig\Extension\TranslationExtension')->trans("Yes", array(), "Admin.Global"), "class" => "btn btn-primary btn-lg continue")))));
         // line 287
         echo "
 ";
@@ -634,13 +634,13 @@ class __TwigTemplate_432e654aad6e57ad4be80b61a07068723af7ee355590d69a830f1f6b3f1
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@PrestaShop/Admin/Product/ProductPage/product.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\product.html.twig");
+        return new Twig_Source("", "@PrestaShop/Admin/Product/ProductPage/product.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\product.html.twig");
     }
 }
 
 
 /* @PrestaShop/Admin/Product/ProductPage/product.html.twig */
-class __TwigTemplate_432e654aad6e57ad4be80b61a07068723af7ee355590d69a830f1f6b3f1f1792_52335803 extends Twig_Template
+class __TwigTemplate_432e654aad6e57ad4be80b61a07068723af7ee355590d69a830f1f6b3f1f1792_281803362 extends Twig_Template
 {
     public function __construct(Twig_Environment $env)
     {
@@ -696,6 +696,6 @@ class __TwigTemplate_432e654aad6e57ad4be80b61a07068723af7ee355590d69a830f1f6b3f1
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@PrestaShop/Admin/Product/ProductPage/product.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\product.html.twig");
+        return new Twig_Source("", "@PrestaShop/Admin/Product/ProductPage/product.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\product.html.twig");
     }
 }

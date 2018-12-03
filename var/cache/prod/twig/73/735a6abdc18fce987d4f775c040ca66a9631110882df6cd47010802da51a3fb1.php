@@ -10,7 +10,7 @@ class __TwigTemplate_d6ac19e2ac2e14942845180ed3ad5ba08405390b2db0acbf039e749372c
         $this->parent = false;
 
         $this->blocks = array(
-            '__internal_f6868c15f1ccd792426de329740e5f5c462ec0e8e2cdb64145783dfaf03dac10' => array($this, 'block___internal_f6868c15f1ccd792426de329740e5f5c462ec0e8e2cdb64145783dfaf03dac10'),
+            '__internal_25943dde3644d8c323b6ad676eb647752b8a2dd216c9cceb8e90b72055f97312' => array($this, 'block___internal_25943dde3644d8c323b6ad676eb647752b8a2dd216c9cceb8e90b72055f97312'),
         );
     }
 
@@ -208,7 +208,7 @@ class __TwigTemplate_d6ac19e2ac2e14942845180ed3ad5ba08405390b2db0acbf039e749372c
                   class=\"feature-collection nostyle\"
                   data-prototype=\"";
         // line 117
-        echo twig_escape_filter($this->env,         $this->renderBlock("__internal_f6868c15f1ccd792426de329740e5f5c462ec0e8e2cdb64145783dfaf03dac10", $context, $blocks));
+        echo twig_escape_filter($this->env,         $this->renderBlock("__internal_25943dde3644d8c323b6ad676eb647752b8a2dd216c9cceb8e90b72055f97312", $context, $blocks));
         // line 119
         echo "\"
                 >
@@ -511,7 +511,7 @@ class __TwigTemplate_d6ac19e2ac2e14942845180ed3ad5ba08405390b2db0acbf039e749372c
     }
 
     // line 117
-    public function block___internal_f6868c15f1ccd792426de329740e5f5c462ec0e8e2cdb64145783dfaf03dac10($context, array $blocks = array())
+    public function block___internal_25943dde3644d8c323b6ad676eb647752b8a2dd216c9cceb8e90b72055f97312($context, array $blocks = array())
     {
         // line 118
         echo "                    ";
@@ -545,6 +545,6 @@ class __TwigTemplate_d6ac19e2ac2e14942845180ed3ad5ba08405390b2db0acbf039e749372c
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@Product/ProductPage/Panels/essentials.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\Panels\\essentials.html.twig");
+        return new Twig_Source("", "@Product/ProductPage/Panels/essentials.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\Panels\\essentials.html.twig");
     }
 }

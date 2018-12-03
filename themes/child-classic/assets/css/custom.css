@@ -1,0 +1,16 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+
+#header .header-nav{
+  border-bottom: none;
+}
+
+#header #_desktop_logo{
+  padding-top: 10px;
+}
+
+#header .header-top .position-static{
+  text-align: center;
+}

@@ -178,6 +178,6 @@ class __TwigTemplate_6f90d393fe4e7b9e82b3184eb8e2143d257f1fcb5647f198184dff1d39d
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "PrestaShopBundle:Admin/Product/Themes:categories_theme.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle/Resources/views/Admin/Product/Themes/categories_theme.html.twig");
+        return new Twig_Source("", "PrestaShopBundle:Admin/Product/Themes:categories_theme.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle/Resources/views/Admin/Product/Themes/categories_theme.html.twig");
     }
 }

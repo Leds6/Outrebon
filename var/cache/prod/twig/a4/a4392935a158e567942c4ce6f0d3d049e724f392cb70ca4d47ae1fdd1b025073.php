@@ -170,6 +170,6 @@ class __TwigTemplate_20793ea9671d85207389a65cec1337f70b4043b7756b32398165e1b106c
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@Product/ProductPage/Forms/form_categories.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\Forms\\form_categories.html.twig");
+        return new Twig_Source("", "@Product/ProductPage/Forms/form_categories.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\Forms\\form_categories.html.twig");
     }
 }

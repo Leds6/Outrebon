@@ -351,6 +351,6 @@ class __TwigTemplate_64570eb5b5abc1c7a5d68d3c63e213b44f97e4b19461c530d85a91b43de
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@Product/CatalogPage/Lists/products_table.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\CatalogPage\\Lists\\products_table.html.twig");
+        return new Twig_Source("", "@Product/CatalogPage/Lists/products_table.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\CatalogPage\\Lists\\products_table.html.twig");
     }
 }

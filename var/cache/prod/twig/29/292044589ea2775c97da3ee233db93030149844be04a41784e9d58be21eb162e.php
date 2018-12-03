@@ -243,6 +243,6 @@ array_key_exists("help_link", $context)) ? (($context["help_link"] ?? null)) : (
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@PrestaShop/Admin/layout.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\layout.html.twig");
+        return new Twig_Source("", "@PrestaShop/Admin/layout.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\layout.html.twig");
     }
 }

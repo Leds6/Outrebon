@@ -396,6 +396,6 @@ class __TwigTemplate_443474fcd1df6f29d177690144072dc9a89ecd504e2f47ac88dd203a778
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@Product/ProductPage/Panels/combinations.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\Panels\\combinations.html.twig");
+        return new Twig_Source("", "@Product/ProductPage/Panels/combinations.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\Panels\\combinations.html.twig");
     }
 }

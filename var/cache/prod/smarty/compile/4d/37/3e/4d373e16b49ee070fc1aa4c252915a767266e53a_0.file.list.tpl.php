@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2018-11-27 12:53:34
+/* Smarty version 3.1.33, created on 2018-12-03 12:12:29
   from 'C:\Laragon\www\Boucherie\prestashop\admin085cxiqye\themes\default\template\helpers\list\list.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5bfd303e163541_83800635',
+  'unifunc' => 'content_5c050f9d5dae68_64493228',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5bfd303e163541_83800635 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c050f9d5dae68_64493228 (Smarty_Internal_Template $_smarty_tpl) {
 echo $_smarty_tpl->tpl_vars['header']->value;?>
 
 <?php echo $_smarty_tpl->tpl_vars['content']->value;?>

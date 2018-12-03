@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2018-11-27 10:33:51
+/* Smarty version 3.1.33, created on 2018-12-03 12:38:29
   from 'C:\Laragon\www\Boucherie\prestashop\modules\dashgoals\views\templates\hook\dashboard_zone_two.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5bfd0f7f7d5c28_41589892',
+  'unifunc' => 'content_5c0515b5768b39_40819474',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -21,7 +21,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:./config.tpl' => 1,
   ),
 ),false)) {
-function content_5bfd0f7f7d5c28_41589892 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5c0515b5768b39_40819474 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div class="clearfix"></div>
 <?php echo '<script'; ?>
 >

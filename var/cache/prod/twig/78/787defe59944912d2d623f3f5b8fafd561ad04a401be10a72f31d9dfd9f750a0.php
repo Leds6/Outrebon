@@ -187,6 +187,6 @@ class __TwigTemplate_9128273c2a63b5c173b5d73b780eab2234123360eb1fb1ab098139489b2
 
     public function getSourceContext()
     {
-        return new Twig_Source("", "@Product/ProductPage/Blocks/header.html.twig", "D:\\laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\Blocks\\header.html.twig");
+        return new Twig_Source("", "@Product/ProductPage/Blocks/header.html.twig", "C:\\Laragon\\www\\Boucherie\\prestashop\\src\\PrestaShopBundle\\Resources\\views\\Admin\\Product\\ProductPage\\Blocks\\header.html.twig");
     }
 }
